@@ -1,0 +1,6 @@
+1. introduction
+2. Dashboard
+3. Pysical Defense
+4. Blade Armor
+5. Ready
+6. Defeat
